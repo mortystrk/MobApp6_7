@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobApp6</string>
+    <string name="insert_values">Данные добавлены!</string>
+    <string name="name_not_found">Записи с таким именем нет!</string>
+    <string name="ok">Ok</string>
+    <string name="not_type">Не выбран тип участника!</string>
+    <string name="incorrect_values">Не все поля заполнены!</string>
+</resources>
